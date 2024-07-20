@@ -11,3 +11,4 @@ The 30 Days JavaScript Challenge is designed to enhance your JavaScript skills t
 - `Day 5`: Functions
 - `Day 6`: Arrays
 - `Day 7`: Objects
+- `Day 8`: ES6+ Features
